@@ -1,0 +1,15 @@
+{
+  "name": "my-app-node",
+  "version": "1.0.0",
+  "description": "Node App",
+  "main": "app.js",
+  "dependencies": {
+    "typescript-dotnet-umd": "^4.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos de Matos Machado",
+  "license": "ISC"
+}
